@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-python-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: my-python-server
+  template:
+    metadata:
+      labels:
+        app: my-python-server
+    spec:
+      nodeName: kind-worker
+      containers:
+      - name: my-python-server
+        image: kubeserver:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8080
+        env:
+        - name: POD_IP
+          valueFrom:
+            fieldRef:
+              fieldPath: status.podIP

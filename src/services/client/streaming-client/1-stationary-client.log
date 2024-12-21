@@ -1,0 +1,77 @@
+15:25:03.914 - Fetched chunk output000.mp4 from "Pod IP: 10.244.3.2"
+15:25:05.092 - Fetched chunk output001.mp4 from "Pod IP: 10.244.3.2"
+15:25:07.198 - Fetched chunk output002.mp4 from "Pod IP: 10.244.3.2"
+15:25:08.107 - Fetched chunk output003.mp4 from "Pod IP: 10.244.3.2"
+15:25:08.958 - Fetched chunk output004.mp4 from "Pod IP: 10.244.3.2"
+15:25:09.691 - Fetched chunk output005.mp4 from "Pod IP: 10.244.3.2"
+15:25:11.015 - Displayed chunk: output000.mp4
+15:25:11.628 - Fetched chunk output006.mp4 from "Pod IP: 10.244.3.2"
+15:25:13.563 - Fetched chunk output007.mp4 from "Pod IP: 10.244.3.2"
+15:25:15.884 - Fetched chunk output008.mp4 from "Pod IP: 10.244.3.2"
+15:25:16.199 - Fetched chunk output009.mp4 from "Pod IP: 10.244.3.2"
+15:25:17.151 - Fetched chunk output010.mp4 from "Pod IP: 10.244.3.2"
+15:25:17.224 - Displayed chunk: output001.mp4
+15:25:18.479 - Fetched chunk output011.mp4 from "Pod IP: 10.244.3.2"
+15:25:21.107 - Fetched chunk output012.mp4 from "Pod IP: 10.244.3.2"
+15:25:24.651 - Fetched chunk output013.mp4 from "Pod IP: 10.244.3.2"
+15:25:24.795 - Displayed chunk: output002.mp4
+15:25:26.235 - Fetched chunk output014.mp4 from "Pod IP: 10.244.3.2"
+15:25:26.781 - Fetched chunk output015.mp4 from "Pod IP: 10.244.3.2"
+15:25:28.733 - Fetched chunk output016.mp4 from "Pod IP: 10.244.3.2"
+15:25:29.145 - Displayed chunk: output003.mp4
+15:25:31.834 - Fetched chunk output017.mp4 from "Pod IP: 10.244.3.2"
+15:25:34.868 - Fetched chunk output018.mp4 from "Pod IP: 10.244.3.2"
+15:25:35.707 - Fetched chunk output019.mp4 from "Pod IP: 10.244.3.2"
+15:25:35.967 - Displayed chunk: output004.mp4
+15:25:37.971 - Fetched chunk output020.mp4 from "Pod IP: 10.244.3.2"
+15:25:40.216 - Displayed chunk: output005.mp4
+15:25:40.800 - Fetched chunk output021.mp4 from "Pod IP: 10.244.3.2"
+15:25:43.345 - Fetched chunk output022.mp4 from "Pod IP: 10.244.3.2"
+15:25:43.887 - Fetched chunk output023.mp4 from "Pod IP: 10.244.3.2"
+15:25:47.488 - Fetched chunk output024.mp4 from "Pod IP: 10.244.3.2"
+15:25:50.987 - Displayed chunk: output006.mp4
+15:25:51.931 - Fetched chunk output025.mp4 from "Pod IP: 10.244.3.2"
+15:25:56.337 - Displayed chunk: output007.mp4
+15:25:57.264 - Fetched chunk output026.mp4 from "Pod IP: 10.244.3.2"
+15:26:01.439 - Fetched chunk output027.mp4 from "Pod IP: 10.244.3.2"
+15:26:01.698 - Displayed chunk: output008.mp4
+15:26:03.924 - Displayed chunk: output009.mp4
+15:26:04.155 - Fetched chunk output028.mp4 from "Pod IP: 10.244.3.2"
+15:26:07.542 - Fetched chunk output029.mp4 from "Pod IP: 10.244.3.2"
+15:26:10.762 - Fetched chunk output030.mp4 from "Pod IP: 10.244.3.2"
+15:26:11.288 - Fetched chunk output031.mp4 from "Pod IP: 10.244.3.2"
+15:26:11.396 - Displayed chunk: output010.mp4
+15:26:12.582 - Fetched chunk output032.mp4 from "Pod IP: 10.244.3.2"
+15:26:15.530 - Fetched chunk output033.mp4 from "Pod IP: 10.244.3.2"
+15:26:17.719 - Displayed chunk: output011.mp4
+15:26:18.424 - Fetched chunk output034.mp4 from "Pod IP: 10.244.3.2"
+15:26:19.400 - Fetched chunk output035.mp4 from "Pod IP: 10.244.3.2"
+15:26:20.522 - Fetched chunk output036.mp4 from "Pod IP: 10.244.3.2"
+15:26:21.969 - Fetched chunk output037.mp4 from "Pod IP: 10.244.3.2"
+15:26:23.783 - Displayed chunk: output012.mp4
+15:26:26.154 - Fetched chunk output038.mp4 from "Pod IP: 10.244.3.2"
+15:26:27.405 - Fetched chunk output039.mp4 from "Pod IP: 10.244.3.2"
+15:26:30.029 - Fetched chunk output040.mp4 from "Pod IP: 10.244.3.2"
+15:26:32.068 - Displayed chunk: output013.mp4
+15:26:33.335 - Fetched chunk output041.mp4 from "Pod IP: 10.244.3.2"
+15:26:34.290 - Fetched chunk output042.mp4 from "Pod IP: 10.244.3.2"
+15:26:35.464 - Fetched chunk output043.mp4 from "Pod IP: 10.244.3.2"
+15:26:35.568 - Displayed chunk: output014.mp4
+15:26:39.429 - Fetched chunk output044.mp4 from "Pod IP: 10.244.3.2"
+15:26:39.975 - Displayed chunk: output015.mp4
+15:26:42.610 - Fetched chunk output045.mp4 from "Pod IP: 10.244.3.2"
+15:26:45.616 - Displayed chunk: output016.mp4
+15:26:45.939 - Fetched chunk output046.mp4 from "Pod IP: 10.244.3.2"
+15:26:48.882 - Fetched chunk output047.mp4 from "Pod IP: 10.244.3.2"
+15:26:50.406 - Fetched chunk output048.mp4 from "Pod IP: 10.244.3.2"
+15:26:52.280 - Fetched chunk output049.mp4 from "Pod IP: 10.244.3.2"
+15:26:52.595 - Displayed chunk: output017.mp4
+15:26:59.316 - Displayed chunk: output018.mp4
+15:27:02.559 - Displayed chunk: output019.mp4
+15:27:11.459 - Displayed chunk: output020.mp4
+15:27:19.155 - Displayed chunk: output021.mp4
+15:27:24.983 - Displayed chunk: output022.mp4
+15:27:26.359 - Displayed chunk: output023.mp4
+15:27:34.168 - Displayed chunk: output024.mp4
+15:27:37.559 - Uptime: 150.8515897106572
+15:27:37.559 - Downtime: 0

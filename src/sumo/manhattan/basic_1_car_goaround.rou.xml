@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Routes -->
+    <route id="r_0" edges="194920158#0 194920158#2 194920158#5 194920158#8 1136460176#0 420908138#0 5670867#0 5673497#0 441405435#0 1023236297#0 569345531#0 569345535#0 46538335#0 569345536#0 569345538#0 569345539#0 1059314985#0 226041030 226041031 814278021#0 814278018"/>
+    
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <vehicle id="0" depart="1.00" route="r_0"/>
+</routes>

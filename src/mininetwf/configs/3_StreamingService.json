@@ -1,0 +1,81 @@
+{
+    "sumoConfig": "/home/rubensas/UM/Msc-Dissertation/src/sumo/braga-2/braga.sumocfg",
+    "telemetry": {
+        "enabled": true,
+        "min_x": -500,
+        "max_x": 2500,
+        "min_y": -500,
+        "max_y": 2500
+    },
+    "cars": {
+        "count": 1
+    },
+    "aps": [
+        {
+            "id": "1",
+            "position": "2000,1500,0",
+            "channel": "1",
+            "linkTo": "2",
+            "kindNode": "1"
+        },
+        {
+            "id": "2",
+            "position": "1750,1400,0",
+            "channel": "6",
+            "linkTo": "3",
+            "kindNode": "1"
+        },
+        {
+            "id": "3",
+            "position": "1500,1300,0",
+            "channel": "11",
+            "linkTo": "4",
+            "kindNode": "1"
+        },
+        {
+            "id": "4",
+            "position": "1250,1200,0",
+            "channel": "1",
+            "linkTo": "5",
+            "kindNode": "2"
+        },
+        {
+            "id": "5",
+            "position": "1000,1100,0",
+            "channel": "6",
+            "linkTo": "6",
+            "kindNode": "2"
+        },
+        {
+            "id": "6",
+            "position": "800,950,0",
+            "channel": "11",
+            "linkTo": "7",
+            "kindNode": "2"
+        },
+        {
+            "id": "7",
+            "position": "600,800,0",
+            "channel": "1",
+            "linkTo": "8",
+            "kindNode": "3"
+        },
+        {
+            "id": "8",
+            "position": "400,700,0",
+            "channel": "6",
+            "linkTo": "9",
+            "kindNode": "3"
+        },
+        {
+            "id": "9",
+            "position": "200,600,0",
+            "channel": "11",
+            "kindNode": "3"
+        }
+    ],
+    "propagationModel": {
+        "model" : "logDistance",
+        "exp" : 3
+    }
+}

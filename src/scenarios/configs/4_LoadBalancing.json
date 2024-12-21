@@ -1,0 +1,5 @@
+{
+    "kind-config" : "kind/configs/4_LoadBalancing.yaml",
+    "mininet-config": "mininetwf/configs/4_LoadBalancing.json",
+    "sdn-controller": "sdnRyu/simple_switch_rest_13.py sdnRyu/ofctl_rest.py"
+}

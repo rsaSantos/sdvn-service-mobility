@@ -1,0 +1,5 @@
+{
+    "kind-config" : "kind/configs/1_POC_Replication.yaml",
+    "mininet-config": "mininetwf/configs/1_POC_Replication.json",
+    "sdn-controller": "sdnRyu/simple_switch_rest_13.py sdnRyu/ofctl_rest.py"
+}

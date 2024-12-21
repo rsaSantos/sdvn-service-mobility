@@ -1,0 +1,1097 @@
+{
+    "0": {
+        "global_latency": 516
+    },
+    "1": {
+        "global_latency": 510
+    },
+    "2": {
+        "global_latency": 498
+    },
+    "3": {
+        "global_latency": 495
+    },
+    "4": {
+        "global_latency": 479
+    },
+    "5": {
+        "global_latency": 469
+    },
+    "6": {
+        "global_latency": 464
+    },
+    "7": {
+        "global_latency": 457
+    },
+    "8": {
+        "global_latency": 456
+    },
+    "9": {
+        "global_latency": 435
+    },
+    "10": {
+        "global_latency": 417
+    },
+    "11": {
+        "global_latency": 409
+    },
+    "12": {
+        "global_latency": 409
+    },
+    "13": {
+        "global_latency": 404
+    },
+    "14": {
+        "global_latency": 397
+    },
+    "15": {
+        "global_latency": 377
+    },
+    "16": {
+        "global_latency": 378
+    },
+    "17": {
+        "global_latency": 360
+    },
+    "18": {
+        "global_latency": 348
+    },
+    "19": {
+        "global_latency": 329
+    },
+    "20": {
+        "global_latency": 328
+    },
+    "21": {
+        "global_latency": 317
+    },
+    "22": {
+        "global_latency": 320
+    },
+    "23": {
+        "global_latency": 326
+    },
+    "24": {
+        "global_latency": 327
+    },
+    "25": {
+        "global_latency": 328
+    },
+    "26": {
+        "global_latency": 328
+    },
+    "27": {
+        "global_latency": 328
+    },
+    "28": {
+        "global_latency": 286
+    },
+    "29": {
+        "global_latency": 286
+    },
+    "30": {
+        "global_latency": 292
+    },
+    "31": {
+        "global_latency": 292
+    },
+    "32": {
+        "global_latency": 296
+    },
+    "33": {
+        "global_latency": 296
+    },
+    "34": {
+        "global_latency": 296
+    },
+    "35": {
+        "global_latency": 296
+    },
+    "36": {
+        "global_latency": 296
+    },
+    "37": {
+        "global_latency": 296
+    },
+    "38": {
+        "global_latency": 296
+    },
+    "39": {
+        "global_latency": 296
+    },
+    "40": {
+        "global_latency": 301
+    },
+    "41": {
+        "global_latency": 301
+    },
+    "42": {
+        "global_latency": 301
+    },
+    "43": {
+        "global_latency": 303
+    },
+    "44": {
+        "global_latency": 303
+    },
+    "45": {
+        "global_latency": 303
+    },
+    "46": {
+        "global_latency": 303
+    },
+    "47": {
+        "global_latency": 301
+    },
+    "48": {
+        "global_latency": 301
+    },
+    "49": {
+        "global_latency": 301
+    },
+    "50": {
+        "global_latency": 301
+    },
+    "51": {
+        "global_latency": 301
+    },
+    "52": {
+        "global_latency": 301
+    },
+    "53": {
+        "global_latency": 301
+    },
+    "54": {
+        "global_latency": 301
+    },
+    "55": {
+        "global_latency": 301
+    },
+    "56": {
+        "global_latency": 301
+    },
+    "57": {
+        "global_latency": 301
+    },
+    "58": {
+        "global_latency": 301
+    },
+    "59": {
+        "global_latency": 301
+    },
+    "60": {
+        "global_latency": 301
+    },
+    "61": {
+        "global_latency": 303
+    },
+    "62": {
+        "global_latency": 303
+    },
+    "63": {
+        "global_latency": 303
+    },
+    "64": {
+        "global_latency": 303
+    },
+    "65": {
+        "global_latency": 303
+    },
+    "66": {
+        "global_latency": 303
+    },
+    "67": {
+        "global_latency": 303
+    },
+    "68": {
+        "global_latency": 303
+    },
+    "69": {
+        "global_latency": 303
+    },
+    "70": {
+        "global_latency": 301
+    },
+    "71": {
+        "global_latency": 301
+    },
+    "72": {
+        "global_latency": 301
+    },
+    "73": {
+        "global_latency": 303
+    },
+    "74": {
+        "global_latency": 303
+    },
+    "75": {
+        "global_latency": 303
+    },
+    "76": {
+        "global_latency": 303
+    },
+    "77": {
+        "global_latency": 305
+    },
+    "78": {
+        "global_latency": 305
+    },
+    "79": {
+        "global_latency": 305
+    },
+    "80": {
+        "global_latency": 305
+    },
+    "81": {
+        "global_latency": 305
+    },
+    "82": {
+        "global_latency": 305
+    },
+    "83": {
+        "global_latency": 305
+    },
+    "84": {
+        "global_latency": 305
+    },
+    "85": {
+        "global_latency": 300
+    },
+    "86": {
+        "global_latency": 300
+    },
+    "87": {
+        "global_latency": 300
+    },
+    "88": {
+        "global_latency": 299
+    },
+    "89": {
+        "global_latency": 299
+    },
+    "90": {
+        "global_latency": 305
+    },
+    "91": {
+        "global_latency": 227
+    },
+    "92": {
+        "global_latency": 224
+    },
+    "93": {
+        "global_latency": 224
+    },
+    "94": {
+        "global_latency": 224
+    },
+    "95": {
+        "global_latency": 224
+    },
+    "96": {
+        "global_latency": 224
+    },
+    "97": {
+        "global_latency": 224
+    },
+    "98": {
+        "global_latency": 220
+    },
+    "99": {
+        "global_latency": 220
+    },
+    "100": {
+        "global_latency": 217
+    },
+    "101": {
+        "global_latency": 217
+    },
+    "102": {
+        "global_latency": 217
+    },
+    "103": {
+        "global_latency": 217
+    },
+    "104": {
+        "global_latency": 197
+    },
+    "105": {
+        "global_latency": 197
+    },
+    "106": {
+        "global_latency": 197
+    },
+    "107": {
+        "global_latency": 190
+    },
+    "108": {
+        "global_latency": 190
+    },
+    "109": {
+        "global_latency": 190
+    },
+    "110": {
+        "global_latency": 190
+    },
+    "111": {
+        "global_latency": 190
+    },
+    "112": {
+        "global_latency": 190
+    },
+    "113": {
+        "global_latency": 190
+    },
+    "114": {
+        "global_latency": 190
+    },
+    "115": {
+        "global_latency": 190
+    },
+    "116": {
+        "global_latency": 190
+    },
+    "117": {
+        "global_latency": 191
+    },
+    "118": {
+        "global_latency": 191
+    },
+    "119": {
+        "global_latency": 191
+    },
+    "120": {
+        "global_latency": 191
+    },
+    "121": {
+        "global_latency": 191
+    },
+    "122": {
+        "global_latency": 191
+    },
+    "123": {
+        "global_latency": 191
+    },
+    "124": {
+        "global_latency": 180
+    },
+    "125": {
+        "global_latency": 177
+    },
+    "126": {
+        "global_latency": 177
+    },
+    "127": {
+        "global_latency": 174
+    },
+    "128": {
+        "global_latency": 174
+    },
+    "129": {
+        "global_latency": 174
+    },
+    "130": {
+        "global_latency": 174
+    },
+    "131": {
+        "global_latency": 174
+    },
+    "132": {
+        "global_latency": 174
+    },
+    "133": {
+        "global_latency": 174
+    },
+    "134": {
+        "global_latency": 174
+    },
+    "135": {
+        "global_latency": 171
+    },
+    "136": {
+        "global_latency": 171
+    },
+    "137": {
+        "global_latency": 171
+    },
+    "138": {
+        "global_latency": 171
+    },
+    "139": {
+        "global_latency": 171
+    },
+    "140": {
+        "global_latency": 171
+    },
+    "141": {
+        "global_latency": 171
+    },
+    "142": {
+        "global_latency": 171
+    },
+    "143": {
+        "global_latency": 163
+    },
+    "144": {
+        "global_latency": 163
+    },
+    "145": {
+        "global_latency": 163
+    },
+    "146": {
+        "global_latency": 163
+    },
+    "147": {
+        "global_latency": 163
+    },
+    "148": {
+        "global_latency": 163
+    },
+    "149": {
+        "global_latency": 163
+    },
+    "150": {
+        "global_latency": 160
+    },
+    "151": {
+        "global_latency": 160
+    },
+    "152": {
+        "global_latency": 159
+    },
+    "153": {
+        "global_latency": 159
+    },
+    "154": {
+        "global_latency": 159
+    },
+    "155": {
+        "global_latency": 158
+    },
+    "156": {
+        "global_latency": 157
+    },
+    "157": {
+        "global_latency": 157
+    },
+    "158": {
+        "global_latency": 157
+    },
+    "159": {
+        "global_latency": 157
+    },
+    "160": {
+        "global_latency": 157
+    },
+    "161": {
+        "global_latency": 157
+    },
+    "162": {
+        "global_latency": 157
+    },
+    "163": {
+        "global_latency": 157
+    },
+    "164": {
+        "global_latency": 157
+    },
+    "165": {
+        "global_latency": 157
+    },
+    "166": {
+        "global_latency": 157
+    },
+    "167": {
+        "global_latency": 157
+    },
+    "168": {
+        "global_latency": 157
+    },
+    "169": {
+        "global_latency": 157
+    },
+    "170": {
+        "global_latency": 157
+    },
+    "171": {
+        "global_latency": 157
+    },
+    "172": {
+        "global_latency": 157
+    },
+    "173": {
+        "global_latency": 157
+    },
+    "174": {
+        "global_latency": 157
+    },
+    "175": {
+        "global_latency": 157
+    },
+    "176": {
+        "global_latency": 157
+    },
+    "177": {
+        "global_latency": 157
+    },
+    "178": {
+        "global_latency": 157
+    },
+    "179": {
+        "global_latency": 157
+    },
+    "180": {
+        "global_latency": 157
+    },
+    "181": {
+        "global_latency": 157
+    },
+    "182": {
+        "global_latency": 157
+    },
+    "183": {
+        "global_latency": 157
+    },
+    "184": {
+        "global_latency": 157
+    },
+    "185": {
+        "global_latency": 157
+    },
+    "186": {
+        "global_latency": 157
+    },
+    "187": {
+        "global_latency": 157
+    },
+    "188": {
+        "global_latency": 157
+    },
+    "189": {
+        "global_latency": 157
+    },
+    "190": {
+        "global_latency": 157
+    },
+    "191": {
+        "global_latency": 150
+    },
+    "192": {
+        "global_latency": 136
+    },
+    "193": {
+        "global_latency": 136
+    },
+    "194": {
+        "global_latency": 136
+    },
+    "195": {
+        "global_latency": 128
+    },
+    "196": {
+        "global_latency": 127
+    },
+    "197": {
+        "global_latency": 120
+    },
+    "198": {
+        "global_latency": 120
+    },
+    "199": {
+        "global_latency": 120
+    },
+    "200": {
+        "global_latency": 120
+    },
+    "201": {
+        "global_latency": 120
+    },
+    "202": {
+        "global_latency": 120
+    },
+    "203": {
+        "global_latency": 120
+    },
+    "204": {
+        "global_latency": 120
+    },
+    "205": {
+        "global_latency": 120
+    },
+    "206": {
+        "global_latency": 120
+    },
+    "207": {
+        "global_latency": 120
+    },
+    "208": {
+        "global_latency": 120
+    },
+    "209": {
+        "global_latency": 120
+    },
+    "210": {
+        "global_latency": 120
+    },
+    "211": {
+        "global_latency": 114
+    },
+    "212": {
+        "global_latency": 114
+    },
+    "213": {
+        "global_latency": 113
+    },
+    "214": {
+        "global_latency": 112
+    },
+    "215": {
+        "global_latency": 112
+    },
+    "216": {
+        "global_latency": 111
+    },
+    "217": {
+        "global_latency": 111
+    },
+    "218": {
+        "global_latency": 111
+    },
+    "219": {
+        "global_latency": 111
+    },
+    "220": {
+        "global_latency": 111
+    },
+    "221": {
+        "global_latency": 111
+    },
+    "222": {
+        "global_latency": 110
+    },
+    "223": {
+        "global_latency": 110
+    },
+    "224": {
+        "global_latency": 110
+    },
+    "225": {
+        "global_latency": 110
+    },
+    "226": {
+        "global_latency": 109
+    },
+    "227": {
+        "global_latency": 109
+    },
+    "228": {
+        "global_latency": 109
+    },
+    "229": {
+        "global_latency": 108
+    },
+    "230": {
+        "global_latency": 107
+    },
+    "231": {
+        "global_latency": 107
+    },
+    "232": {
+        "global_latency": 107
+    },
+    "233": {
+        "global_latency": 107
+    },
+    "234": {
+        "global_latency": 107
+    },
+    "235": {
+        "global_latency": 101
+    },
+    "236": {
+        "global_latency": 100
+    },
+    "237": {
+        "global_latency": 100
+    },
+    "238": {
+        "global_latency": 95
+    },
+    "239": {
+        "global_latency": 95
+    },
+    "240": {
+        "global_latency": 95
+    },
+    "241": {
+        "global_latency": 95
+    },
+    "242": {
+        "global_latency": 95
+    },
+    "243": {
+        "global_latency": 95
+    },
+    "244": {
+        "global_latency": 95
+    },
+    "245": {
+        "global_latency": 95
+    },
+    "246": {
+        "global_latency": 90
+    },
+    "247": {
+        "global_latency": 92
+    },
+    "248": {
+        "global_latency": 91
+    },
+    "249": {
+        "global_latency": 98
+    },
+    "250": {
+        "global_latency": 97
+    },
+    "251": {
+        "global_latency": 99
+    },
+    "252": {
+        "global_latency": 98
+    },
+    "253": {
+        "global_latency": 98
+    },
+    "254": {
+        "global_latency": 98
+    },
+    "255": {
+        "global_latency": 101
+    },
+    "256": {
+        "global_latency": 93
+    },
+    "257": {
+        "global_latency": 93
+    },
+    "258": {
+        "global_latency": 93
+    },
+    "259": {
+        "global_latency": 92
+    },
+    "260": {
+        "global_latency": 92
+    },
+    "261": {
+        "global_latency": 92
+    },
+    "262": {
+        "global_latency": 92
+    },
+    "263": {
+        "global_latency": 99
+    },
+    "264": {
+        "global_latency": 101
+    },
+    "265": {
+        "global_latency": 101
+    },
+    "266": {
+        "global_latency": 102
+    },
+    "267": {
+        "global_latency": 102
+    },
+    "268": {
+        "global_latency": 101
+    },
+    "269": {
+        "global_latency": 101
+    },
+    "270": {
+        "global_latency": 98
+    },
+    "271": {
+        "global_latency": 98
+    },
+    "272": {
+        "global_latency": 98
+    },
+    "273": {
+        "global_latency": 98
+    },
+    "274": {
+        "global_latency": 98
+    },
+    "275": {
+        "global_latency": 98
+    },
+    "276": {
+        "global_latency": 98
+    },
+    "277": {
+        "global_latency": 98
+    },
+    "278": {
+        "global_latency": 98
+    },
+    "279": {
+        "global_latency": 98
+    },
+    "280": {
+        "global_latency": 98
+    },
+    "281": {
+        "global_latency": 98
+    },
+    "282": {
+        "global_latency": 98
+    },
+    "283": {
+        "global_latency": 98
+    },
+    "284": {
+        "global_latency": 98
+    },
+    "285": {
+        "global_latency": 98
+    },
+    "286": {
+        "global_latency": 93
+    },
+    "287": {
+        "global_latency": 91
+    },
+    "288": {
+        "global_latency": 92
+    },
+    "289": {
+        "global_latency": 92
+    },
+    "290": {
+        "global_latency": 92
+    },
+    "291": {
+        "global_latency": 92
+    },
+    "292": {
+        "global_latency": 92
+    },
+    "293": {
+        "global_latency": 86
+    },
+    "294": {
+        "global_latency": 86
+    },
+    "295": {
+        "global_latency": 86
+    },
+    "296": {
+        "global_latency": 86
+    },
+    "297": {
+        "global_latency": 86
+    },
+    "298": {
+        "global_latency": 85
+    },
+    "299": {
+        "global_latency": 85
+    },
+    "300": {
+        "global_latency": 85
+    },
+    "301": {
+        "global_latency": 85
+    },
+    "302": {
+        "global_latency": 85
+    },
+    "303": {
+        "global_latency": 85
+    },
+    "304": {
+        "global_latency": 85
+    },
+    "305": {
+        "global_latency": 85
+    },
+    "306": {
+        "global_latency": 85
+    },
+    "307": {
+        "global_latency": 85
+    },
+    "308": {
+        "global_latency": 85
+    },
+    "309": {
+        "global_latency": 85
+    },
+    "310": {
+        "global_latency": 85
+    },
+    "311": {
+        "global_latency": 85
+    },
+    "312": {
+        "global_latency": 85
+    },
+    "313": {
+        "global_latency": 91
+    },
+    "314": {
+        "global_latency": 90
+    },
+    "315": {
+        "global_latency": 89
+    },
+    "316": {
+        "global_latency": 89
+    },
+    "317": {
+        "global_latency": 88
+    },
+    "318": {
+        "global_latency": 88
+    },
+    "319": {
+        "global_latency": 88
+    },
+    "320": {
+        "global_latency": 88
+    },
+    "321": {
+        "global_latency": 88
+    },
+    "322": {
+        "global_latency": 88
+    },
+    "323": {
+        "global_latency": 88
+    },
+    "324": {
+        "global_latency": 88
+    },
+    "325": {
+        "global_latency": 88
+    },
+    "326": {
+        "global_latency": 88
+    },
+    "327": {
+        "global_latency": 84
+    },
+    "328": {
+        "global_latency": 76
+    },
+    "329": {
+        "global_latency": 76
+    },
+    "330": {
+        "global_latency": 76
+    },
+    "331": {
+        "global_latency": 76
+    },
+    "332": {
+        "global_latency": 76
+    },
+    "333": {
+        "global_latency": 76
+    },
+    "334": {
+        "global_latency": 76
+    },
+    "335": {
+        "global_latency": 75
+    },
+    "336": {
+        "global_latency": 74
+    },
+    "337": {
+        "global_latency": 73
+    },
+    "338": {
+        "global_latency": 73
+    },
+    "339": {
+        "global_latency": 65
+    },
+    "340": {
+        "global_latency": 65
+    },
+    "341": {
+        "global_latency": 65
+    },
+    "342": {
+        "global_latency": 65
+    },
+    "343": {
+        "global_latency": 65
+    },
+    "344": {
+        "global_latency": 65
+    },
+    "345": {
+        "global_latency": 65
+    },
+    "346": {
+        "global_latency": 65
+    },
+    "347": {
+        "global_latency": 65
+    },
+    "348": {
+        "global_latency": 63
+    },
+    "349": {
+        "global_latency": 63
+    },
+    "350": {
+        "global_latency": 63
+    },
+    "351": {
+        "global_latency": 63
+    },
+    "352": {
+        "global_latency": 62
+    },
+    "353": {
+        "global_latency": 62
+    },
+    "354": {
+        "global_latency": 63
+    },
+    "355": {
+        "global_latency": 63
+    },
+    "356": {
+        "global_latency": 63
+    },
+    "357": {
+        "global_latency": 63
+    },
+    "358": {
+        "global_latency": 63
+    },
+    "359": {
+        "global_latency": 63
+    },
+    "360": {
+        "global_latency": 63
+    },
+    "361": {
+        "global_latency": 64
+    },
+    "362": {
+        "global_latency": 64
+    },
+    "363": {
+        "global_latency": 64
+    },
+    "364": {
+        "global_latency": 64
+    }
+}

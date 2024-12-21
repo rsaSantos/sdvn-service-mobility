@@ -1,0 +1,5 @@
+{
+    "kind-config" : "kind/configs/3_StreamingService.yaml",
+    "mininet-config": "mininetwf/configs/3_StreamingService.json",
+    "sdn-controller": "sdnRyu/simple_switch_rest_13.py sdnRyu/ofctl_rest.py"
+}

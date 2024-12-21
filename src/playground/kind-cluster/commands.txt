@@ -1,0 +1,14 @@
+1. Create the cluster with the costum configuration file.
+    
+    kind create cluster --config kind-config.yaml
+
+2. Load the necessary docker images into the cluster nodes.
+    
+    kind load docker-image kubeserver:latest
+
+3. (optional) Create labels for nodes.
+    In the future, deployments should use a nodeSelector.
+    Closer nodes can be instantiated together given that they have the same label.
+
+
+wget 172.18.0.4:30001

@@ -1,0 +1,3 @@
+docker stop $(docker ps -a -q) && docker container prune
+sudo -E mn --custom containernet_example.py
+docker build . -t testserver:latest

@@ -1,0 +1,81 @@
+{
+    "sumoConfig": "/home/rubensas/UM/Msc-Dissertation/src/sumo/manhattan/manhattan-100.sumocfg",
+    "telemetry": {
+        "enabled": true,
+        "min_x": -500,
+        "max_x": 2000,
+        "min_y": -500,
+        "max_y": 2000
+    },
+    "cars": {
+        "count": 100
+    },
+    "aps": [
+        {
+            "id": "1",
+            "position": "300,900,0",
+            "channel": "1",
+            "linkTo": "2",
+            "kindNode": "1"
+        },
+        {
+            "id": "2",
+            "position": "700,900,0",
+            "channel": "6",
+            "linkTo": "3",
+            "kindNode": "2"
+        },
+        {
+            "id": "3",
+            "position": "1100,900,0",
+            "channel": "11",
+            "linkTo": "4",
+            "kindNode": "3"
+        },
+        {
+            "id": "4",
+            "position": "500,600,0",
+            "channel": "11",
+            "linkTo": "5",
+            "kindNode": "4"
+        },
+        {
+            "id": "5",
+            "position": "900,600,0",
+            "channel": "1",
+            "linkTo": "6",
+            "kindNode": "5"
+        },
+        {
+            "id": "6",
+            "position": "1300,600,0",
+            "channel": "6",
+            "linkTo": "7",
+            "kindNode": "6"
+        },
+        {
+            "id": "7",
+            "position": "400,300,0",
+            "channel": "1",
+            "linkTo": "8",
+            "kindNode": "7"
+        },
+        {
+            "id": "8",
+            "position": "800,300,0",
+            "channel": "6",
+            "linkTo": "9",
+            "kindNode": "8"
+        },
+        {
+            "id": "9",
+            "position": "1200,300,0",
+            "channel": "11",
+            "kindNode": "9"
+        }
+    ],
+    "propagationModel": {
+        "model" : "logDistance",
+        "exp" : 3
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "sumoConfig": "/home/rubensas/UM/Msc-Dissertation/src/sumo/square/square.sumocfg",
+    "telemetry": {
+        "enabled": true,
+        "min_x": -2000,
+        "max_x": 2000,
+        "min_y": -2000,
+        "max_y": 2000
+    },
+    "cars": {
+        "count": 2
+    },
+    "aps": [
+        {
+            "id": "1",
+            "position": "0,0,0",
+            "channel": "1",
+            "linkTo": "2"
+        },
+        {
+            "id": "2",
+            "position": "1500,-500,0",
+            "channel": "6"
+        }
+    ],
+    "propagationModel": {
+        "model" : "logDistance",
+        "exp" : 3
+    }
+}

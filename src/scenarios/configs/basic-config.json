@@ -1,0 +1,5 @@
+{
+    "kind-config" : "kind/configs/basic-config.yaml",
+    "mininet-config": "mininetwf/configs/basic-config.json",
+    "sdn-controller": "sdnRyu/simple_switch_rest_13.py sdnRyu/ofctl_rest.py"
+}

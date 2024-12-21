@@ -1,0 +1,53 @@
+18:03:53.703 : Fetched output000.mp4 from "Pod 10.244.1.6"
+18:03:54.995 : Fetched output001.mp4 from "Pod 10.244.1.6"
+18:03:57.285 : Fetched output002.mp4 from "Pod 10.244.1.6"
+18:03:58.151 : Fetched output003.mp4 from "Pod 10.244.1.6"
+18:03:59.049 : Fetched output004.mp4 from "Pod 10.244.1.6"
+18:03:59.908 : Fetched output005.mp4 from "Pod 10.244.1.6"
+18:04:00.939 : Displayed chunk: output000.mp4
+18:04:01.989 : Fetched output006.mp4 from "Pod 10.244.1.6"
+18:04:04.128 : Fetched output007.mp4 from "Pod 10.244.1.6"
+18:04:07.279 : Displayed chunk: output001.mp4
+18:04:08.201 : Fetched output008.mp4 from "Pod 10.244.1.6"
+18:04:08.722 : Fetched output009.mp4 from "Pod 10.244.1.6"
+18:04:14.735 : Displayed chunk: output002.mp4
+18:04:18.950 : Displayed chunk: output003.mp4
+18:04:19.772 : Fetched output010.mp4 from "Pod 10.244.1.6"
+18:04:22.928 : Fetched output011.mp4 from "Pod 10.244.1.6"
+18:04:25.703 : Displayed chunk: output004.mp4
+18:04:26.841 : Fetched output012.mp4 from "Pod 10.244.1.6"
+18:04:29.879 : Displayed chunk: output005.mp4
+18:04:37.987 : Error fetching chunk output013.mp4: HTTPConnectionPool(host='172.18.0.4', port=30001): Read timed out.
+18:04:39.946 : Displayed chunk: output006.mp4
+18:04:44.593 : Fetched output013.mp4 from "Pod 10.244.2.5"
+18:04:44.887 : Displayed chunk: output007.mp4
+18:04:47.266 : Fetched output014.mp4 from "Pod 10.244.2.5"
+18:04:48.223 : Fetched output015.mp4 from "Pod 10.244.2.5"
+18:04:49.922 : Displayed chunk: output008.mp4
+18:04:51.388 : Fetched output016.mp4 from "Pod 10.244.2.5"
+18:04:51.863 : Displayed chunk: output009.mp4
+18:04:56.362 : Fetched output017.mp4 from "Pod 10.244.2.5"
+18:04:58.851 : Displayed chunk: output010.mp4
+18:05:04.894 : Displayed chunk: output011.mp4
+18:05:10.637 : Error fetching chunk output018.mp4: HTTPConnectionPool(host='172.18.0.4', port=30001): Read timed out.
+18:05:10.759 : Displayed chunk: output012.mp4
+18:05:17.935 : Fetched output018.mp4 from "Pod 10.244.2.5"
+18:05:18.867 : Displayed chunk: output013.mp4
+18:05:19.893 : Fetched output019.mp4 from "Pod 10.244.2.5"
+18:05:22.263 : Displayed chunk: output014.mp4
+18:05:24.971 : Fetched output020.mp4 from "Pod 10.244.2.5"
+18:05:26.478 : Displayed chunk: output015.mp4
+18:05:30.626 : Error fetching chunk output021.mp4: ("Connection broken: ConnectionResetError(104, 'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by peer'))
+18:05:32.041 : Displayed chunk: output016.mp4
+18:05:39.006 : Displayed chunk: output017.mp4
+18:05:45.767 : Displayed chunk: output018.mp4
+18:05:47.829 : Fetched output021.mp4 from "Pod 10.244.3.3"
+18:05:49.073 : Displayed chunk: output019.mp4
+18:05:55.016 : Fetched output022.mp4 from "Pod 10.244.3.3"
+18:05:56.576 : Fetched output023.mp4 from "Pod 10.244.3.3"
+18:05:58.222 : Displayed chunk: output020.mp4
+18:06:03.549 : Fetched output024.mp4 from "Pod 10.244.3.3"
+18:06:06.159 : Displayed chunk: output021.mp4
+18:06:12.550 : Fetched output025.mp4 from "Pod 10.244.3.3"
+18:06:12.550 : Uptime: 133.11275908991047
+18:06:12.550 : Downtime: 0
